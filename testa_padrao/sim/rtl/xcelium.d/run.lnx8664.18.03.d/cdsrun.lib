@@ -1,0 +1,3 @@
+SOFTINCLUDE /soft64/cadence/ferramentas/XCELIUM183/tools/inca/files/cds.lib
+define work ../work
+define vhdlspice_skeletons ../vhdlspice_skeletons
